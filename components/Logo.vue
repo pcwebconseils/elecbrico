@@ -1,11 +1,11 @@
 <template>
 <div class="logo">
-<img src="static/img/logo_elecbrico.png" alt=""></div>
+<img src="~/static/img/logo_elecbrico.png" alt=""></div>
 </template>
 
 <style>
 .logo {
-  width: 50%;
+  width: 100%;
   height: auto;
   animation: 1s appear;
   margin: auto;
