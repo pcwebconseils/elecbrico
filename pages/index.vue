@@ -12,7 +12,7 @@
           <a href="mailto:carlierphilipp@gmail.com">Contactez-moi !</a>
         </p>
         <p>
-          <a href="tel:+33660048462">Cliquez ici pour appeler le 06 60 04 84 62</a>
+          <a href="tel:+33686838806">Cliquez ici pour appelez le 06 86 83 88 06</a>
         </p>
       </div>
     </div>
@@ -63,7 +63,7 @@ export default {};
 .contact{
   margin-top: 2em;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   text-align: center;
 }
